@@ -1,0 +1,51 @@
+Completed Files:
+
+All Keys Finished
+All Pins Finished
+Back-Gurard-Bottom-New1
+Back-Gurard-Bottom-New2
+Barrel1-1
+Barrel2-1
+Back-Guard-Top-1
+Back-Guard-Top2-1
+B-Main-Body-1
+Back-Top-Rail-1
+
+Work-In-Progress Files:
+
+A-Main-Body-1
+Back1-1
+Back2-1
+Back-Grip1-1
+
+Unfinished Files:
+
+C-Main-Body-1
+D-Main-Body-1
+Top-Front-Rail-1
+Front-Body1-1
+Front-Body2-1
+Front-Bottom-Body-1
+Front-Grip1-1
+Front-Grip2-1
+Front-Guard1-1
+Front-Guard2-1
+Front-Guard3-1
+Front-Guard4-1
+Front-Insert-1
+Back-Bottom-Body1-1
+Back-Bottom-Body2-1
+Back-Grip2-1
+Bottom-Front-Rail-1
+Bottom-Middle-Rail-1
+Bottom-Back-Rail-1
+Bottom-Rail2-1
+Bottom-Middle-Rail-Attachment-1
+Middle-Guard1-1
+Middle-Guard2-1
+Middle-Guard3-1
+Middle-Guard4-1
+Scope1-1
+Scope2-1
+Scope-Add-On1-1
+Scope-Add-On2-1
